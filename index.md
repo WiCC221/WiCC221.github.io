@@ -27,8 +27,8 @@ layout: default
 <h2 style="display: flex; align-items: center;">🔥 News</h2>
 <ul style="list-style: none; padding-left: 0;">
   <li style="margin-bottom: 10px;"><b>2026-02:</b> 🎉 Our paper was accepted by <b>Applied Soft Computing</b> (IF=6.6) !</li>
-  <li style="margin-bottom: 10px;"><b>2025-11:</b> 🎉 Our paper was accepted by <b>Robotics and Computer-Integrated Manufacturing</b> (IF=11.4) !</li>
-  <li style="margin-bottom: 10px;"><b>2025-09:</b> 🎉 Our paper was accepted by <b>Engineering Applications of Artificial Intelligence</b> (IF=8.0) !</li>
+  <li style="margin-bottom: 10px;"><b>2025-11:</b> 🎉 Our paper was accepted by <b>Engineering Applications of Artificial Intelligence</b> (IF=8.0) !</li>
+  <li style="margin-bottom: 10px;"><b>2025-09:</b> 🎉 Our paper was accepted by <b>Robotics and Computer-Integrated Manufacturing</b> (IF=11.4) !</li>
 </ul>
 
 <hr>
@@ -37,7 +37,7 @@ layout: default
 
 <div style="display: flex; margin-bottom: 30px;">
   <div style="flex: 1; padding-right: 20px;">
-    <img src="_paper/EAAI.png" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="assets/paper/EAAI.png" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <h4 style="margin: 0; color: #0366d6;">A global and local agent-based curriculum reinforcement learning approach for multi-end-effector robotic arm manipulation</h4>
@@ -52,7 +52,7 @@ layout: default
 
 <div style="display: flex; margin-bottom: 30px;">
   <div style="flex: 1; padding-right: 20px;">
-    <img src="_paper/RCIM.png" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="assets/paper/RCIM.png" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <h4 style="margin: 0; color: #0366d6;">Digital twin-empowered robotic arm manipulation with reinforcement learning A comprehensive survey</h4>
@@ -63,7 +63,7 @@ layout: default
 
 <div style="display: flex; margin-bottom: 30px;">
   <div style="flex: 1; padding-right: 20px;">
-    <img src="_paper/ASOC.png" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
+    <img src="assets/paper/ASOC.png" style="width: 100%; border: 1px solid #eee; border-radius: 4px;">
   </div>
   <div style="flex: 2;">
     <h4 style="margin: 0; color: #0366d6;">A Novel Multi-Agent Reinforcement Learning Approach based on State Adaptive Weighting and Exploration Path Sampling</h4>
