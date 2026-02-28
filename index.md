@@ -43,6 +43,7 @@ layout: default
     <h4 style="margin: 0; color: #0366d6;">A global and local agent-based curriculum reinforcement learning approach for multi-end-effector robotic arm manipulation</h4>
     <p style="margin: 5px 0;"><b>Yichen Wang</b>, Shuai Zheng*, Ze Yang, Jingmin Guo, Zitong Yang, Jun Hong</p>
     <p style="margin: 5px 0; font-style: italic;">Engineering Applications of Artificial Intelligence</p>
+    <p style="font-size: 0.8em;">We propose a multi-agent reinforcement learning approach for hoisting tasks manipulated by robotic arm with multi-end-effectors. The method decomposes the robotic arm into global and local agents based on the degrees of freedom, with one agent controlling global and rough movement, and the other controlling local and fine movement. In this way, the multi-end-effectors’ spatial trajectory can be accurately manipulated. Moreover, in the training process, a four levels curriculum learning strategy is introduced, in which different reward functions are designed respectively, to make the training efficiency and effectiveness.</p>
     <!-- <p style="margin: 5px 0; font-size: 0.9em;">
       [<a href="#">Arxiv</a>] [<a href="#">Code</a>] [<a href="#">Video</a>] 
       <span style="background: #e1f5fe; color: #01579b; padding: 2px 6px; border-radius: 10px; font-size: 12px;">Oral</span>
@@ -58,6 +59,7 @@ layout: default
     <h4 style="margin: 0; color: #0366d6;">Digital twin-empowered robotic arm manipulation with reinforcement learning A comprehensive survey</h4>
     <p style="margin: 5px 0;"><b>Yichen Wang</b>, Shuai Zheng*, Ze Yang, Yingnan Zhu, Sen Zhang, Jiewu Leng, Jun Hong</p>
     <p style="margin: 5px 0; font-style: italic;">Robotics and Computer-Integrated Manufacturing</p>
+    <p style="font-size: 0.8em;">This paper discusses the state-of-the-art of robotic arm intelligent manipulation related techniques empowered by DT and illustrates the picture for its future development. More specifically, it provides a novel perspective to analyze the entire workflow of DT-empowered robotic arm intelligent manipulation techniques, from task definition to path planning, simulation environment, and virtual-real communications, respectively.</p>
   </div>
 </div>
 
@@ -69,7 +71,8 @@ layout: default
     <h4 style="margin: 0; color: #0366d6;">A Novel Multi-Agent Reinforcement Learning Approach based on State Adaptive Weighting and Exploration Path Sampling</h4>
     <p style="margin: 5px 0;"><b>Yichen Wang</b>, Shuai Zheng*, Ze Yang, Xin Zhou</p>
     <p style="margin: 5px 0; font-style: italic;">Applied Soft Computing</p>
-  </div>
+    <p style="font-size: 0.8em;">This paper proposes State Adaptive Weighting (SAW) and Exploration Path Sampling (EPS), a powerful design to achieve state weight adaptation. SAW employs a dynamic state weighting network to prioritize informative and decisioncritical states during training. EPS introduces a multi-faceted exploration strategy composed of three parts.</p>
+    </div>
 </div>
 
 <hr>
