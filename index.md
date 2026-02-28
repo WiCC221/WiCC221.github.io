@@ -3,8 +3,8 @@ layout: default
 ---
 
 <head>
-  <link rel="icon" type="image/jpeg" href="{{ '/icon.jpg' | relative_url }}">
-  <link rel="shortcut icon" type="image/jpeg" href="{{ '/icon.jpg' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/favicon.png' | relative_url }}">
 </head>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
