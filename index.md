@@ -124,6 +124,11 @@ layout: default
   <li><b>Teaching Assistant:</b> Virtual Reality, Xi'an Jiaotong University, Spring 2025</li>
 </ul>
 
+<h2 style="display: flex; align-items: center;">🥇 Honor</h2>
+<ul>
+  <li>Xi'an Jiaotong University <b>Excellent Postgraduate</b> 2024-2025</li>
+</ul>
+
 <h2 style="display: flex; align-items: center;">🎈 Miscellanea</h2>
 <ul>
   <li><b>Journal Reviewer:</b> 《Applied Soft Computing》《The International Journal of Advanced Manufacturing Technology》</li>
