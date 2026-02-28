@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<head>
+  <link rel="icon" type="image/jpeg" href="{{ '/icon.jpg' | relative_url }}">
+  <link rel="shortcut icon" type="image/jpeg" href="{{ '/icon.jpg' | relative_url }}">
+</head>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 2; padding-right: 20px;">
     <h1 style="margin-bottom: 10px;">你的真实姓名 (wicc)</h1>
