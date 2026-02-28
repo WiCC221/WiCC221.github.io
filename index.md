@@ -6,8 +6,8 @@ layout: default
   <div style="flex: 2; padding-right: 20px;">
     <h1 style="margin-bottom: 10px;">Yichen Wang</h1>
     <p>
-      I am a Ph.D. student in Software Engineering at <b>Xi'an Jiaotong University</b>.<br>
-      My research focuses on the cutting-edge intersection of <b>Digital Twin</b> and <b>Reinforcement Learning</b>.
+      I am a <b>Ph.D. student</b> in Software Engineering at <b>Xi'an Jiaotong University</b>, advised by Prof. Shuai Zheng.<br>
+      My research focuses on <b>Digital Twin</b>, <b>Robotic Manipulation</b> and <b>Reinforcement Learning</b>.
     </p>
     <p>
       I am currently focused on building Unity-based embodied intelligence simulation environments and tackling reinforcement learning training challenges for robotic arms in complex tasks.
